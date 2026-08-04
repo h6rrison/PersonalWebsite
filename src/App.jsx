@@ -47,7 +47,7 @@ const EXPERIENCE = [
     bullets: [
       "Designed and maintained backend software integrations in C# and SQL for REST-based data workflows supporting B2B use cases with government agencies.",
       "Worked extensively with relational databases to validate configurations, optimize queries, and support data-driven configuration decisions.",
-      "Delivered 20+ end-to-end software implementations for government agencies, managing the full project life cycle from requirements-gathering to production support.",
+      "Delivered 5 end-to-end software implementations for government agencies, managing the full project life cycle from requirements-gathering to production support.",
       "Acted as the primary liaison between business users and technical teams, ensuring solutions met operational, architectural, and scalability requirements.",
     ],
   },
